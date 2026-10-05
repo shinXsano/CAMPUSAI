@@ -1,0 +1,8 @@
+{
+  "name": "Campus AI",
+  "description": "The unified academic copilot and intelligent study suite built for university students—master coursework, generate flashcards, audit essays & code, and navigate campus life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
